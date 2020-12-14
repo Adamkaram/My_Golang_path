@@ -2,6 +2,7 @@
 
 
 javaScript
+
 compile_path --js_out=import_style=commonjs,binary:. employees.proto
 
 GO
